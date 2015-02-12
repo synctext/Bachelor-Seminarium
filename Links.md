@@ -1,4 +1,4 @@
- - [https://bitcoin.org]()
- - [https://whonix.org]()
- - [https://tails.boum.org/]()
- - [https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs]()
+ - [https://bitcoin.org](https://bitcoin.org)
+ - [https://whonix.org](https://whonix.org)
+ - [https://tails.boum.org/](https://tails.boum.org/)
+ - [https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs](https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs)
