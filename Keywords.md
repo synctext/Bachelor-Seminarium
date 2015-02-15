@@ -1,5 +1,6 @@
  - bitcoin
- - bitcoin hosting
- - bitcoin scam
- - bitcoin anonymous
- - bitcoin anonymous hosting
+ - hosting
+ - scam
+ - anonymity
+ - pseudonymity
+ - blockchain
