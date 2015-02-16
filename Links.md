@@ -5,3 +5,4 @@
  - [http://www.bitcoinfog.com/](http://www.bitcoinfog.com/)
  - [http://app.bitlaundry.com/](http://app.bitlaundry.com/)
  - [https://blockchain.info/nl/](https://blockchain.info/nl/)
+ - [https://sharedcoin.com/](https://sharedcoin.com/)

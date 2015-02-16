@@ -7,3 +7,5 @@
  - tor
  - whonix
  - tails
+ - shared coin
+ - joincoin
