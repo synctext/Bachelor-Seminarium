@@ -9,3 +9,5 @@
  - tails
  - shared coin
  - joincoin
+ - bitcoin mixing
+ - bitcoin shadow addresses
