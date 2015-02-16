@@ -2,3 +2,6 @@
  - [https://whonix.org](https://whonix.org)
  - [https://tails.boum.org/](https://tails.boum.org/)
  - [https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs](https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs)
+ - [http://www.bitcoinfog.com/](http://www.bitcoinfog.com/)
+ - [http://app.bitlaundry.com/](http://app.bitlaundry.com/)
+ - [https://blockchain.info/nl/](https://blockchain.info/nl/)
