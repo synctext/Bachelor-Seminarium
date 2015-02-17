@@ -7,3 +7,12 @@
  - [Relevant links](Links.md)
  - [Research keywords](Keywords.md)
  - [Potential hosts](Hosts.md)
+
+
+## Anonymous payment
+
+## Anonymous server management
+
+## Anonymous hosting provider
+
+## Silk Road mistakes
