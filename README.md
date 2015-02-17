@@ -10,9 +10,13 @@
 
 
 ## Anonymous payment
+Jasper
 
 ## Anonymous server management
+Willem Jan
 
 ## Anonymous hosting provider
+Maarten
 
 ## Silk Road mistakes
+Mark
