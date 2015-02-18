@@ -13,7 +13,9 @@
 Bitcoin could be used to pay for hosting. Several (hosting) companies/providers accept Bitcoin payments. The point is, Bitcoin transactions are public and therefore not totally anonymous. Several techniques could be used to anonymize: mixing transactions, shared wallets. Some commercial services exist: Bitcoin Fog, BitLaundry, Blockchain.info's Send Shared. There's been many research on the anonymity of Bitcoin and we could probably use that. 
 
 ## Anonymous server management
-Willem Jan
+When we want to purchase a VPS or manage it, we should not publish our location. The easiest is to use the TOR protocol which establishes a connnection to a server through mulitple relays. And the last one, the exit node, connects to the actual server. To prevent the exit node from capturing our traffice, which an untrusted maintainer of an exit node could do, we must make sure we use end-to-end encryption. This can be achieved by using HTTPS, Tunnel Proxy, SSH and/or a VPN through Tor.
+
+To prevent our computer or browser leaking any information to third parties, we could use WhoNIX or Tails, both linux distributions build for keeping someone anonymous. These distributions make sure that any out going connection is passed through Tor.
 
 ## Anonymous hosting provider
 Maarten
