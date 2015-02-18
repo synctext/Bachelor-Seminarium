@@ -10,7 +10,7 @@
 
 
 ## Anonymous payment
-Jasper
+Bitcoin could be used to pay for hosting. Several (hosting) companies/providers accept Bitcoin payments. The point is, Bitcoin transactions are public and therefore not totally anonymous. Several techniques could be used to anonymize: mixing transactions, shared wallets. Some commercial services exist: Bitcoin Fog, BitLaundry, Blockchain.info's Send Shared. There's been many research on the anonymity of Bitcoin and we could probably use that. 
 
 ## Anonymous server management
 Willem Jan
