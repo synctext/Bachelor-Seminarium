@@ -19,4 +19,7 @@ Willem Jan
 Maarten
 
 ## Silk Road mistakes
-Mark
+Silk Road's mistakes can be grouped as either technical mishaps or human failure. Ulbricht, the creator of Silk Road, left a lot of traces online hinting at his ownership of Silk Road. For instance, Ulbritch used his real email address when hiring an IT specialist and used his real name on Stack Overflow when asking questions about Tor. These mistakes are something to keep in mind, but aren't incredibly relevant to the paper.
+
+On the technical front i expected to find a subtle mistake and some really clever hacking, but was left feeling dissappointed. As the FBI was feeding the login page random strings, they noticed some data originated from an ip address that wasn't associated with any known Tor exit nodes. Upon entering this ip into a regular browser Silk Road's Captcha prompt appeared. In short, the login page was poorly configured for Tor and as such leaked the server IP. After the servers were taken into custody, they discovered an IP address that was last used to connect to the server was the same one Ulbricht used to access his Gmail account. 
+
