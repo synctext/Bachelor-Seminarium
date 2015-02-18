@@ -18,7 +18,9 @@ When we want to purchase a VPS or manage it, we should not publish our location.
 To prevent our computer or browser leaking any information to third parties, we could use WhoNIX or Tails, both linux distributions build for keeping someone anonymous. These distributions make sure that any out going connection is passed through Tor.
 
 ## Anonymous hosting provider
-Maarten
+There are several services that claim to host your services anonymously. For example kevlarhost, which is very clear about it's policy "Hosting is our business, what you're hosting is your business!". The question is how much anonimity these services actually provide. Another way to host your services anonymously is through using tor hidden services, the downside is that these services are only reachable through the tor network. A third option for hosting anonymously is using free services such as tumblr, though this gives limitations on the content. The geographic location of the server also plays a role in anonymity due to the local regulations. 
+
+Next to hosting, registering a domain also poses it's problems due to the personal information that is commonly asked to sign up for one. 
 
 ## Silk Road mistakes
 Silk Road's mistakes can be grouped as either technical mishaps or human failure. Ulbricht, the creator of Silk Road, left a lot of traces online hinting at his ownership of Silk Road. For instance, Ulbritch used his real email address when hiring an IT specialist and used his real name on Stack Overflow when asking questions about Tor. These mistakes are something to keep in mind, but aren't incredibly relevant to the paper.
